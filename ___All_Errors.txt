@@ -1,0 +1,11 @@
+CorrelationId: 4fbe1dc3-a55a-43fe-bbf8-511e0567261c
+UTC DateTime: 03/14/2023 19:43:45
+
+The following files/folders have not been downloaded
+0. ydea_replica/build/windows/flutter/flutter_wrapper_plugin.dir/Debug/flutter_.D716B543.tlog/Lib-link.read.1.tlog
+1. ydea_replica/build/windows/flutter/flutter_wrapper_plugin.dir/Debug/flutter_.D716B543.tlog/Lib-link.write.1.tlog
+2. ydea_replica/build/windows/flutter/flutter_wrapper_plugin.dir/Debug/flutter_wrapper_plugin.lib.recipe
+3. ydea_replica/build/windows/flutter/flutter_wrapper_plugin.dir/Debug/plugin_registrar.obj
+4. ydea_replica/build/windows/flutter/flutter_wrapper_plugin.dir/Debug/standard_codec.obj
+5. ydea_replica/build/windows/flutter/x64/Debug/flutter_assemble/flutter_assemble.recipe
+6. ydea_replica/build/windows/flutter/x64/Debug/flutter_assemble/flutter_assemble.tlog/CustomBuild.command.1.tlog
